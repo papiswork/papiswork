@@ -1,5 +1,4 @@
 #  ![DeadpoolGIF (2)](https://github.com/user-attachments/assets/9976159f-6122-4c07-beac-fcc65a6a0812)
-![Uploading DeadpoolGIF.gif…]()
 Hey there
 🔭 I’m currently working on Samata Elevate<br>👯 I’m looking to collaborate on Front End projects<br>🤝 I’m looking for help with Java <br>🌱 I’m currently learning Android Studio,Angular and React <br>💬 Ask me about HTML,CSS AND JS<br>⚡ Fun fact im unfunny asf
 
