@@ -1,5 +1,5 @@
-#  # about me ![DeadpoolDeadpool WolverineGIF (2)](https://github.com/user-attachments/assets/3fd3ec2c-cae7-43fe-b181-df8f81e1568d)
-
+![SaulGoodmanBetterCallSaulGIF](https://github.com/user-attachments/assets/1e6d8148-622b-4f13-b7e3-fa35217d9652)
+# about me 
 🔭 I’m currently working on Samata Elevate<br>👯 I’m looking to collaborate on Front End projects<br>🤝 I’m looking for help with Java <br>🌱 I’m currently learning Android Studio,Angular and React <br>💬 Ask me about HTML,CSS AND JS<br>⚡ Fun fact im unfunny asf
 
 
